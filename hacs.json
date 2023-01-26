@@ -1,0 +1,5 @@
+{
+  "name": "ntfy Custom Integration",
+  "domains": ["notify"],
+  "render_readme": true
+}
